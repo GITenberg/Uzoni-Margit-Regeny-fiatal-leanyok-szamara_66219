@@ -1,0 +1,33 @@
+_repo: Uzoni-Margit-Regeny-fiatal-leanyok-szamara_66219
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mühlbeck, Károly
+    alias: Muhlbeck, Karoly
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '49408'
+    url: http://www.gutenberg.org/2009/agents/49408
+    wikipedia: https://hu.wikipedia.org/wiki/M%C3%BChlbeck_K%C3%A1roly
+creator:
+  author:
+    agent_name: Benedek, Elek
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '39589'
+    url: http://www.gutenberg.org/2009/agents/39589
+    wikipedia: http://hu.wikipedia.org/wiki/Benedek_Elek
+description: ''
+gutenberg_issued: '2021-09-04'
+identifiers:
+  gutenberg: '66219'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Uzoni Margit
+
+  Regény fiatal leányok számára'
+url: http://www.gutenberg.org/ebooks/66219
