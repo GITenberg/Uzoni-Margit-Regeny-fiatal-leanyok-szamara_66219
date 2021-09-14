@@ -1,5 +1,5 @@
 _repo: Uzoni-Margit-Regeny-fiatal-leanyok-szamara_66219
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Mühlbeck, Károly
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '49408'
     url: http://www.gutenberg.org/2009/agents/49408
     wikipedia: https://hu.wikipedia.org/wiki/M%C3%BChlbeck_K%C3%A1roly
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Benedek, Elek
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39589
     wikipedia: http://hu.wikipedia.org/wiki/Benedek_Elek
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66219#Uzoni-Margit-Regeny-fiatal-leanyok-szamara
 gutenberg_issued: '2021-09-04'
 identifiers:
   gutenberg: '66219'
